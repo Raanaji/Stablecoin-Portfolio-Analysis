@@ -1,0 +1,11 @@
+READ ME FOR USER
+----------------------
+
+Before running the .ipynb file, please do the following;
+
+RUN ALL FILES IN THE SAME FOLDER AS INUT DATA
+
+pip install PyPortfolioOpt
+pip install yfinance
+pip install pulp
+pip install quandl
